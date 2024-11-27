@@ -1,0 +1,27 @@
+*{
+    background: grey;
+}
+
+p {
+    background: yellow;
+}
+
+.product_description{
+    background: pink;
+}
+
+#unique-description-1{
+    background: purple;
+}
+
+#unique-product-2{
+    color: aqua;
+}
+
+li{
+    color: blue !important;
+}
+
+li{
+    color: red;
+}
